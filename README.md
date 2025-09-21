@@ -18,6 +18,10 @@ Auxo is a free, cross-platform habit tracker built with Flutter. It features a c
 
 ---
 
+⚡ **Check out the [Meme Version](#meme-version)** for a fun anime-themed experience!
+
+---
+
 ## 🎯 Project Vision
 
 Auxo helps you build and maintain healthy habits with a simple, clean interface. Its features make habit tracking easy, fun, and motivating:  
@@ -134,6 +138,39 @@ Auxo is in active development. Feedback and contributions are welcome!
 - **Local Notifications**: Reminders to maintain consistency
 
 ---
+## 🎭 Meme Version - Auxo Meme Edition
+
+<table>
+  <tr>
+    <td width="120">
+      <img src="assets/auxowaifu.png" alt="Auxo Waifu Logo" width="100">
+    </td>
+    <td>
+      <strong>Auxo Meme Edition</strong><br>
+      Auxo also has a fun anime-themed “Meme Version” called Auxo Meme Edition for a more playful habit tracking experience. This version features:  
+      <ul>
+        <li>Special UI variations with anime-inspired designs</li>
+        <li>Fun references and easter eggs for anime fans</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/animecreate.png" alt="Create Page" width="200">
+  <img src="assets/animehome.png" alt="Home Page" width="200">
+  <img src="assets/animemore.png" alt="More Page" width="200">
+</p>
+
+You can enjoy this version by downloading the APK from the same [Auxo Tracker website](https://auxo.pythonanywhere.com/).
+
+<p align="center"><em>Have fun while tracking your habits with this playful, anime-themed twist!</em></p>
+
+
+---
+
+
+
 
 ## 🤝 Contributing
 
