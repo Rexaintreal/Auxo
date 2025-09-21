@@ -18,7 +18,7 @@ Auxo is a free, cross-platform habit tracker built with Flutter. It features a c
 
 ---
 
-⚡ **Check out the [Meme Version](#meme-version)** for a fun anime-themed experience!
+⚡ **Check out the [Meme Version](#🎭-meme-version---auxo-meme-edition)** for a fun anime-themed experience!
 
 ---
 
